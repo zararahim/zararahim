@@ -1,6 +1,7 @@
 # Hi, I'm Zara Rahim
 
-Data Science student at San José State University
+## About me 
+I'm studying Data Science at San José State University. 
 
 I'm passionate about Machine Learning, Data Science, and Responsible Technology. I enjoy building predictive models, data-driven applications, and software that solves real-world problems.
 
