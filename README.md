@@ -27,7 +27,7 @@ I'm passionate about Machine Learning, Data Science, and Responsible Technology.
 
 📧 **zararahim1205@gmail.com**
 
-💼 LinkedIn: [https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/zararahim/)
+💼 LinkedIn: [https://linkedin.com/in/zararahim](https://www.linkedin.com/in/zararahim/)
 
 🌐 GitHub: https://github.com/zararahim
 
