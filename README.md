@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=25&duration=3000&pause=1000&color=2A9D8F&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Zara+Rahim" alt="Hi, I'm Zara Rahim" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=%E2%9C%A6%20%20%E2%9C%A6%20%20%E2%9C%A6&fontColor=7DD3C7&fontSize=32&animation=twinkling" />
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=25&duration=3000&pause=1000&color=7DD3C7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Zara+Rahim" alt="Hi, I'm Zara Rahim" />
 </p>
 
 ## About Me
