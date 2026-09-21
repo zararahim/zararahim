@@ -1,32 +1,6 @@
-<table align="center">
-  <tr>
-    <td align="left">
-      <img src="https://capsule-render.vercel.app/api?type=transparent&height=45&text=%E2%9C%A6&fontColor=7DD3C7&fontSize=28&animation=twinkling" width="35">
-    </td>
-    <td></td>
-    <td align="right">
-      <img src="https://capsule-render.vercel.app/api?type=transparent&height=45&text=%E2%9C%A6&fontColor=7DD3C7&fontSize=28&animation=twinkling" width="35">
-    </td>
-  </tr>
-
-  <tr>
-    <td></td>
-    <td>
-      <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=25&duration=3000&pause=1000&color=7DD3C7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Zara+Rahim" alt="Hi, I'm Zara Rahim">
-    </td>
-    <td></td>
-  </tr>
-
-  <tr>
-    <td align="right">
-      <img src="https://capsule-render.vercel.app/api?type=transparent&height=45&text=%E2%9C%A6&fontColor=7DD3C7&fontSize=28&animation=twinkling" width="35">
-    </td>
-    <td></td>
-    <td align="left">
-      <img src="https://capsule-render.vercel.app/api?type=transparent&height=45&text=%E2%9C%A6&fontColor=7DD3C7&fontSize=28&animation=twinkling" width="35">
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=25&duration=3000&pause=1000&color=7DD3C7&background=00000000&center=true&vCenter=true&width=700&height=60&lines=Hi%2C+I'm+Zara+Rahim+%E2%AD%91.%E1%90%9F" alt="Hi, I'm Zara Rahim" />
+</p>
 
 ## About Me
 I'm a Data Science student at San José State University interested in machine learning and artificial intelligence. Through coursework and personal projects, I've built experience with predictive modeling, data analysis, and software development, and I'm always looking to learn new technologies and improve my skills.
