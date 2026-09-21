@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=700&size=25&duration=3000&pause=1000&color=D6F5F0&background=00000000&center=true&vCenter=true&width=700&height=60&lines=Hi%2C+I'm+Zara+Rahim!" alt="Hi, I'm Zara Rahim!" />
+</p>
+
+---
+
 ## **About Me**
 
 I'm a Data Science student at San José State University and currently a Break Through Tech Fellow at Cornell Tech.
