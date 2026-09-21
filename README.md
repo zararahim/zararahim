@@ -1,51 +1,22 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=700&size=25&duration=3000&pause=1000&color=D6F5F0&background=00000000&center=true&vCenter=true&width=700&height=60&lines=Hi%2C+I'm+Zara+Rahim!" alt="Hi, I'm Zara Rahim!" />
-</p>
-
----
-
 ## **About Me**
 
-I'm a Data Science student at San José State University interested in machine learning, artificial intelligence, data analysis, and software development.
+I'm a Data Science student at San José State University and currently a Break Through Tech Fellow at Cornell Tech.
 
-I enjoy using data and programming to understand patterns, solve problems, and build useful applications. Through coursework and personal projects, I've gained experience with predictive modeling, databases, and object-oriented programming.
+Through the AI Studio, I'm working with Microsoft on an end-to-end machine learning pipeline that analyzes public GitHub repository data and identifies signals associated with high-quality open-source projects.
+
+I'm interested in machine learning, artificial intelligence, ethical computing, data analysis, and building practical applications with data.
 
 ---
 
 ## **Tech Stack**
 
-**Languages:** Python, Java, SQL
+**Programming and Scientific Computing:** Python, R, SQL, NumPy, SciPy, Pandas, Matplotlib, Jupyter Notebook
 
-**Data Science:** Pandas, NumPy, Scikit-learn
+**Machine Learning and Deep Learning:** scikit-learn, XGBoost, CatBoost, TensorFlow, Keras, PyTorch, Regression, Classification, Neural Networks, Feature Engineering, Model Evaluation
 
-**Tools:** Git, GitHub, Jupyter Notebook
-
-**Areas of Interest:** Machine Learning, Data Analysis, Predictive Modeling, Artificial Intelligence
+**AI and Development Tools:** RAG, LLMs, Multimodal AI, Agentic Workflows, MCP, Git, GitHub, Linux, REST APIs
 
 ---
-
-## **Featured Projects**
-
-**Bike Sharing Demand Prediction**  
-A machine learning project using Random Forest to analyze and predict bike-sharing demand.
-
-**Customer Segmentation Application**  
-A Java and SQL application for organizing customer data and managing customer segments.
-
-**Animal Cafe Game**  
-A Python game demonstrating object-oriented programming, user interaction, and game mechanics.
-
-**Machine Learning Foundations Projects**  
-A collection of projects focused on data analysis, model development, and machine learning concepts.
-
----
-
-## **Currently Learning**
-
-- Improving my machine learning and predictive modeling skills
-- Building stronger Java and object-oriented programming foundations
-- Practicing SQL and database management
-- Developing more data-driven applications
 
 ---
 
@@ -54,5 +25,3 @@ A collection of projects focused on data analysis, model development, and machin
 **Email:** [zararahim1205@gmail.com](mailto:zararahim1205@gmail.com)
 
 **LinkedIn:** [linkedin.com/in/zararahim](https://linkedin.com/in/zararahim)
-
-**GitHub:** [github.com/zararahim](https://github.com/zararahim)
