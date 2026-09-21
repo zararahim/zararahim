@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=C084FC&height=120&section=header" />
-</p># Hi, I'm Zara Rahim 👋
+</p>
 
 ## About Me
 I'm a Data Science student at San José State University interested in machine learning and artificial intelligence. Through coursework and personal projects, I've built experience with predictive modeling, data analysis, and software development, and I'm always looking to learn new technologies and improve my skills.
