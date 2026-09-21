@@ -1,4 +1,10 @@
-# Hi, I'm Zara Rahim 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=25&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Zara+Rahim+%F0%9F%91%8B;Data+Science+Student+at+SJSU+%F0%9F%8E%93;Interested+in+AI+%26+Machine+Learning+%F0%9F%92%BB;Welcome+to+my+GitHub+%F0%9F%8C%B7" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=C084FC&height=120&section=header" />
+</p># Hi, I'm Zara Rahim 👋
 
 ## About Me
 I'm a Data Science student at San José State University interested in machine learning and artificial intelligence. Through coursework and personal projects, I've built experience with predictive modeling, data analysis, and software development, and I'm always looking to learn new technologies and improve my skills.
