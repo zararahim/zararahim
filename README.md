@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=700&size=25&duration=3000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=650&height=60&lines=Hi%2C+I'm+Zara+Rahim" alt="Hi, I'm Zara Rahim" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=700&size=25&duration=3000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=650&height=60&lines=Hi%2C+I'm+Zara+Rahim" alt="Hi, I'm Zara Rahim!" />
 </p>
 
 ## About Me
